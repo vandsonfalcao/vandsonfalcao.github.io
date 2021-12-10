@@ -7,6 +7,8 @@ body {
   box-sizing: border-box;
 }
 .container {
+  margin: 0;
+  padding: 0;
   width: 100vw; /*ajustar tamanho min30*/
   display: flex;
   justify-content: space-around;
